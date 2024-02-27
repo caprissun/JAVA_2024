@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="214"/>
+		<item key="DIALOG_Y_ORIGIN" value="128"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\java\works\Java_AWS\SelfStudy"/>
+			<item value="C:\java\works\Java_AWS\Self_study-main"/>
+			<item value="C:\java\works\Java_AWS\Self_Study"/>
+			<item value="C:\java\works\Java_AWS\Java_SelfStudy"/>
+			<item value="C:\java\works\Java_AWS\Java_20240214_컬렉션"/>
+			<item value="C:\java\works\Java_AWS\Java_20240214_어레이리스트"/>
+			<item value="C:\java\works\Java_AWS\Java_20240214_Arraylist"/>
+			<item value="C:\java\works\Java_AWS\Java_20240207_제네릭"/>
+			<item value="C:\java\works\Java_AWS\Java_20240206_정규표현식"/>
+			<item value="C:\java\works\Java_AWS\Java_20240206_유용한클래스"/>
+			<item value="C:\java\works\Java_AWS\Java_20240205_Exception"/>
+			<item value="C:\java\works\Java_AWS\Java_20240205"/>
+			<item value="C:\java\works\Java_AWS\Java_20240202_클래스"/>
+			<item value="C:\java\works\Java_AWS\Java_20240202_자바정석클래스"/>
+			<item value="C:\java\works\Java_AWS\Java_20240201_인터페이스"/>
+			<item value="C:\java\works\Java_AWS\Java_20240131_다형성"/>
+			<item value="C:\java\works\Java_AWS\Java_20240130_상속"/>
+			<item value="C:\java\works\Java_AWS\Java_20240129_클래스01"/>
+			<item value="C:\java\works\Java_AWS\Java_20240125_함수"/>
+			<item value="C:\java\works\Java_AWS\Java_20240125_배열과String"/>
+			<item value="C:\java\works\Java_AWS\Java_20240122_제어문"/>
+			<item value="C:\java\works\Java_AWS\Java_20240119_연산자"/>
+			<item value="C:\java\works\Java_AWS\BreakTime"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
